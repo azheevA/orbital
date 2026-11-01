@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+build/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+public/textures/*.jpg
+public/textures/*.jpeg
+public/textures/*.png
+!public/textures/README.md
+*.tsbuildinfo
